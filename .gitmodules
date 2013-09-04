@@ -1,0 +1,6 @@
+[submodule "javascript-table-of-contents"]
+	path = javascript-table-of-contents
+	url = git://github.com/PebbleRoad/javascript-table-of-contents.git
+[submodule "stickyHeaders"]
+	path = stickyHeaders
+	url = git://github.com/PebbleRoad/stickyHeaders.git
