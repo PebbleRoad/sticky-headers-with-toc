@@ -24,7 +24,7 @@ You can clone the repository from github
 ### 2. Your html structure
 
 
-  <div class="container">
+    <div class="container">
 
       <h2>Some main heading</h2>
 
@@ -39,7 +39,7 @@ You can clone the repository from github
       <h2>Another main heading</h2>
 
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, nulla, eveniet, sint odit quas iusto sit veniam doloremque officia rem laudantium dolores cupiditate possimus accusamus odio. Architecto, sequi hic quidem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, mollitia, recusandae, distinctio molestiae maxime voluptatem ratione cumque maiores quas ullam veniam consequatur dolor repudiandae facere unde quaerat explicabo molestias praesentium!</p>
-  </div>
+    </div>
 
 
 
