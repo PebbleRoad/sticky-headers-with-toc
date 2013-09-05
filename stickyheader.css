@@ -62,9 +62,11 @@ a, a:visited {
   background: black url(toc-icon.png);
   width: 25px;
   height: 25px;
+  margin-top: -12px;
+  top: 50%;
+  display: none;
   position: absolute;
   right: 10px;
-  top: 5px;
   cursor: pointer;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
