@@ -14,6 +14,10 @@
     padding: 10px 0;
     margin: 0; }
 
+a, a:visited {
+  color: #4183c4;
+  text-decoration: none; }
+
 .sticky-header-hidden {
   visibility: hidden; }
 
@@ -26,7 +30,6 @@
 
 .sticky-helper {
   width: 100%;
-  max-width: 100%;
   cursor: pointer; }
 
 /**
@@ -40,12 +43,14 @@
   padding: 10px;
   background: #fff;
   width: 100%; }
+  .list--toc li {
+    margin-bottom: 5px; }
   .list--toc ul {
     list-style: none;
     margin: 0;
     padding: 0; }
   .list--toc ul ul {
-    margin-left: 15px; }
+    margin: 5px 0 5px 15px; }
   .list--toc .active > a {
     font-weight: bold; }
 
@@ -53,13 +58,12 @@
  * Icon
  */
 .icon {
-  background: #000;
-  width: 20px;
-  height: 20px;
-  display: none;
+  background: black url(toc-icon.png);
+  width: 25px;
+  height: 25px;
   position: absolute;
-  right: 40px;
-  top: 10px;
+  right: 10px;
+  top: 5px;
   cursor: pointer;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
