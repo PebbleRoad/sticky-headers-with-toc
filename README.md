@@ -17,9 +17,9 @@ You can clone the repository from github
 
 ### 1. Include jQuery and Javascript Files
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="stickyHeaders/jquery.stickyHeaders.js"></script>
-  <script src="javascript-table-of-contents/toc.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="stickyHeaders/jquery.stickyHeaders.js"></script>
+    <script src="javascript-table-of-contents/toc.js"></script>
 
 ### 2. Your html structure
 
