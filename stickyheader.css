@@ -42,7 +42,8 @@ a, a:visited {
   display: none;
   padding: 10px;
   background: #fff;
-  width: 100%; }
+  width: 100%;
+  margin: 0; }
   .list--toc li {
     margin-bottom: 5px; }
   .list--toc ul {
