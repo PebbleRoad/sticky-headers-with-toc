@@ -13,7 +13,7 @@ The problem with long pages is that after scrolling a bit you forget which secti
 
 You can clone the repository from github
 
-  git clone https://github.com/PebbleRoad/sticky-headers-with-toc.git --recursive
+    git clone https://github.com/PebbleRoad/sticky-headers-with-toc.git --recursive
 
 ### 1. Include jQuery and Javascript Files
 
